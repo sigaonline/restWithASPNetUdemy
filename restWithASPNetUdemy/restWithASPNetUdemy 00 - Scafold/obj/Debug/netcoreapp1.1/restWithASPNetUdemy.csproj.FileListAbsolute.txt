@@ -1,0 +1,11 @@
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\bin\Debug\netcoreapp1.1\restWithASPNetUdemy.deps.json
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\bin\Debug\netcoreapp1.1\restWithASPNetUdemy.runtimeconfig.json
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\bin\Debug\netcoreapp1.1\restWithASPNetUdemy.runtimeconfig.dev.json
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\bin\Debug\netcoreapp1.1\restWithASPNetUdemy.dll
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\bin\Debug\netcoreapp1.1\restWithASPNetUdemy.pdb
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.csprojAssemblyReference.cache
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.csproj.CoreCompileInputs.cache
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.AssemblyInfoInputs.cache
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.AssemblyInfo.cs
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.dll
+C:\LIXO\Projetos\restWithASPNetUdemy\restWithASPNetUdemy\restWithASPNetUdemy\obj\Debug\netcoreapp1.1\restWithASPNetUdemy.pdb
