@@ -9925,11 +9925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy.csproj",
-      "projectName": "restWithASPNetUdemy",
-      "projectPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy.csproj",
+      "projectUniqueName": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 00 - Scafold\\restWithASPNetUdemy 00 - Scafold.csproj",
+      "projectName": "restWithASPNetUdemy 00 - Scafold",
+      "projectPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 00 - Scafold\\restWithASPNetUdemy 00 - Scafold.csproj",
       "packagesPath": "C:\\Users\\gynar\\.nuget\\packages\\",
-      "outputPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\obj\\",
+      "outputPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 00 - Scafold\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gynar\\AppData\\Roaming\\NuGet\\NuGet.Config",

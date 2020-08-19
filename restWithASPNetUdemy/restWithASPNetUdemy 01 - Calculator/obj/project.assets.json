@@ -9925,11 +9925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy.csproj",
-      "projectName": "restWithASPNetUdemy",
-      "projectPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy.csproj",
+      "projectUniqueName": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 01 - Calculator\\restWithASPNetUdemy 01 - Calculator.csproj",
+      "projectName": "restWithASPNetUdemy 01 - Calculator",
+      "projectPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 01 - Calculator\\restWithASPNetUdemy 01 - Calculator.csproj",
       "packagesPath": "C:\\Users\\gynar\\.nuget\\packages\\",
-      "outputPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy\\obj\\",
+      "outputPath": "C:\\LIXO\\Projetos\\restWithASPNetUdemy\\restWithASPNetUdemy\\restWithASPNetUdemy 01 - Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gynar\\AppData\\Roaming\\NuGet\\NuGet.Config",
